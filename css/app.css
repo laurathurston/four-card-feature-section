@@ -1,0 +1,44 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+/* BACKGROUND */
+
+body {
+  background-color: hsl(0, 0%, 98%);
+}
+
+/* HEADER */
+
+.header {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.header-description {
+  font-size: 1.75rem;
+  font-weight: 200;
+  color: hsl(234, 12%, 34%);
+  letter-spacing: 1px;
+  margin-bottom: 0%;
+}
+
+.header-text {
+  font-size: 2rem;
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  letter-spacing: 1.2px;
+  margin-top: 1px;
+}
+
+.header-content {
+  font-size: 1rem;
+  font-weight: 400;
+  color: hsl(229, 6%, 66%);
+  letter-spacing: 0.25px;
+  line-height: 30px;
+  margin-top: 2%;
+}
+
+/* CONTENT */
